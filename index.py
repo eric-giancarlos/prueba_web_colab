@@ -9,3 +9,5 @@ print("Me gusta programar")
 print("Tengo 10 años de experiencia como programador")
 
 print("Tengo 10 de experiencia en banca")
+
+print("He programado en COBOL")
